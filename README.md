@@ -56,3 +56,4 @@ Along with MockUp Images
 
 # Architecture 
 N-tier Architecture is implemented which include User Interaction, Functionality Layer, Business Logic Layer, Application Core Layer, Database
+ 
